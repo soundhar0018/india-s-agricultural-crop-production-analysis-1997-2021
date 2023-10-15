@@ -8,3 +8,7 @@ story link
 
 https://public.tableau.com/views/story1_16962184435330/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 https://public.tableau.com/views/story2_16962185290410/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
+
+vedio demonstration link
+
+https://youtu.be/ER-SaZ9nc8k?feature=shared
